@@ -1,0 +1,17 @@
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\bin\Debug\MyFileManager.pdb
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.Properties.Resources.resources
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.csproj.GenerateResource.Cache
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.exe
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.pdb
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.csprojResolveAssemblyReference.cache
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.SettingsForm.resources
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.LoginForm.resources
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.SyncForm.resources
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.MainForm.resources
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe.config
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.DownloadForm.resources
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.DownloadManagerForm.resources
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Debug\MyFileManager.SearchForm.resources
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\bin\Debug\Ionic.Zip.pdb
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\MyFileManager\bin\Debug\Ionic.Zip.xml

@@ -1,0 +1,10 @@
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\bin\Release\MyFileManager.exe
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\bin\Release\MyFileManager.pdb
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.Form1.resources
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.Properties.Resources.resources
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.csproj.GenerateResource.Cache
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.exe
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.pdb
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.csprojResolveAssemblyReference.cache
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.SettingsForm.resources
+C:\Users\K750JB\documents\visual studio 2010\Projects\MyFileManager\MyFileManager\obj\x86\Release\MyFileManager.LoginForm.resources

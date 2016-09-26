@@ -1,0 +1,12 @@
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\MyFileManager.exe
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\Ionic.Zip.dll
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\MyFileManager.pdb
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\Ionic.Zip.pdb
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\Ionic.Zip.xml
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\K750JB\Documents\Visual Studio 2010\Projects\MyFileManager\UnitTestProject\obj\Debug\UnitTestProject.pdb
